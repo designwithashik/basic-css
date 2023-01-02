@@ -1,0 +1,32 @@
+h3 {
+    color: magenta;
+    text-decoration: underline wavy gold;
+    margin-left: 300px;
+}
+
+p {
+    color: blueviolet;
+    text-align: center;
+    margin: 0 300px 0;
+}
+.title-1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    color: firebrick;
+    background-image: url('../shutterstock.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+ol li {
+    /* display: inline; */
+    display: none;
+}
+.blog {
+    background-color: skyblue;
+    box-shadow: 30px 30px 10px red;
+}
